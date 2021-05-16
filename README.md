@@ -115,6 +115,6 @@ const styles = StyleSheet.create({
 
 但如果直接在個別項目內的`onPress`加上`setSelectAll(false)` 卻行不通，見[影片二](https://youtu.be/zvPWE-KRCoQ)
 
-因為一旦 `selectAll` 改變，FlatList 就會重新 render，導致所有項目一致變成選取/未選取
+因為一旦 `selectAll` 改變，FlatList 就會重新 render，導致所有項目一致變成未選取
 
 目前不知道有什麼好辦法解決
