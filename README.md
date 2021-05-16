@@ -21,9 +21,9 @@
 點案全選按鈕時，全選按鈕會變色，也會改變所有列表項目的顏色，達到全選的功能 (右圖)
 
 <div style="display:flex">
-<img src="./assets/demo.jpg" width="300px" style="box-shadow: 2px 2px 5px gray"/>
-<img src="./assets/demo2.jpg" width="300px" style="box-shadow: 2px 2px 5px gray"/>
-<img src="./assets/demo3.jpg" width="300px" style="box-shadow: 2px 2px 5px gray"/>
+<img src="./assets/demo.jpg" width="200px" style="box-shadow: 2px 2px 5px gray"/>
+<img src="./assets/demo2.jpg" width="200px" style="box-shadow: 2px 2px 5px gray"/>
+<img src="./assets/demo3.jpg" width="200px" style="box-shadow: 2px 2px 5px gray"/>
 </div>
 
 
